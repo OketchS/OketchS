@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OketchS
+- 👋 Hi, I’m Samson Onyango.
 - 👀 I’m interested in programming in R.
 - 🌱 I’m currently learning R..
 - 💞️ I’m looking to collaborate on health research projects...
